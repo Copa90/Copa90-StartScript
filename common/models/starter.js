@@ -64,6 +64,6 @@ module.exports = function(starter) {
 		})
 	})
 
-	dailyBackup.start()
+	// dailyBackup.start()
 
 }
